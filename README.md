@@ -117,4 +117,4 @@ This tool operates without any content moderation layer. All outputs are determi
 A: This tool is not a game cheat and does not modify game memory or network traffic. There is no anti-cheat detection risk. However, if you generate content on a shared platform (Discord, Twitter, etc.), platform ToS may flag unrestricted outputs. Use a personal environment to avoid moderation triggers.
 
 **Q: How often is the tool updated?**  
-A: Releases are published quarterly or when critical
+A: Releases are published quarterly or when critical‌
